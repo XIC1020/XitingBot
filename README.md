@@ -1,6 +1,15 @@
-XitingBot - 自动回复机器人
-使用教程位于底部
-<p align="center"> <img src="https://img.shields.io/badge/python-3.7+-blue.svg"> <img src="https://img.shields.io/badge/license-MIT-green.svg"> <img src="https://img.shields.io/badge/API-DeepSeek-orange.svg"> </p><p align="center"> 默认状态下为基于DeepSeek API的QQ机器人 </p>
+# ⚡ XitingBot - 智能自动回复机器人
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🐍 Python-3.7+-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=3776AB">
+  <img src="https://img.shields.io/badge/📜 License-MIT-green?style=for-the-badge&labelColor=2E7D32&color=2E7D32">
+  <img src="https://img.shields.io/badge/🧠 API-DeepSeek-orange?style=for-the-badge&labelColor=D97706&color=D97706">
+</p>
+
+<p align="center">
+  <b>✨ 默认状态下为基于 DeepSeek API 的智能自动回复机器人 ✨</b>
+</p>
+
 📋 目录
 项目功能
 
