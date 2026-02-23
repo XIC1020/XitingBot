@@ -327,9 +327,6 @@ A: 检查API Key是否正确，网络是否通畅
 Q: 如何完全重置？
 A: 删除生成的JSON文件即可重置所有配置
 
-📄 许可证
-MIT License © 2024 沈溪亭
-
 🙏 致谢
 DeepSeek - 提供强大的AI API
 
