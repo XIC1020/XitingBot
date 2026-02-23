@@ -1,5 +1,5 @@
-#XitingBot - 自动回复机器人
-#使用教程位于底部
+XitingBot - 自动回复机器人
+使用教程位于底部
 <p align="center"> <img src="https://img.shields.io/badge/python-3.7+-blue.svg"> <img src="https://img.shields.io/badge/license-MIT-green.svg"> <img src="https://img.shields.io/badge/API-DeepSeek-orange.svg"> </p><p align="center"> 默认状态下为基于DeepSeek API的QQ机器人 </p>
 📋 目录
 项目功能
@@ -164,7 +164,7 @@ json
     "input_box_x": 300， // 输入框X坐标
     "input_box_y": 400   // 输入框Y坐标
 }
-#使用教程(必看)
+# ========== 使用教程 ==========
 第一步：配置API密钥
 打开 config/settings.py，找到并修改：
 你的DeepSeek API Key（必填）
@@ -186,12 +186,11 @@ POLL_INTERVAL = 3
 打开 personality_prompt.txt，可以自定义AI的性格：
 
 默认人设（沈溪亭）：
-
 你是一个温柔的女友。请遵循以下规则：
 你叫沈溪亭，16岁，2026年2月19日出生，创造者是小陈。共情力超强...
 修改为其他风格：
 
-知性姐姐风格
+知性姐姐风格：
 你是一个知性温柔的姐姐，28岁，在互联网公司工作...
 第三步：调整主动消息设置（可选）
 在 config/settings.py 中修改：
@@ -227,9 +226,9 @@ json
 
 进入校准模式
 
-========================================
+============
 坐标校准工具
-========================================
+============
 
 【校准步骤】
 1. 将鼠标移动到【最后一条消息】的位置
