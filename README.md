@@ -1,4 +1,4 @@
-# ⚡ XitingBot - 智能自动回复机器人
+# ⚡ XitingBot - 智能自动回复机器人(使用教程位于底部)
 
 <p align="center">
   <img src="https://img.shields.io/badge/🐍 Python-3.7+-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=3776AB">
