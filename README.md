@@ -1,5 +1,5 @@
 XitingBot - 自动回复机器人
-<p align="center"> <img src="https://img.shields.io/badge/python-3.7+-blue.svg"> <img src="https://img.shields.io/badge/license-MIT-green.svg"> <img src="https://img.shields.io/badge/API-DeepSeek-orange.svg"> <img src="https://img.shields.io/badge/微信-自动回复-brightgreen.svg"> </p><p align="center"> 🤖 一个拥有"沈溪亭"人设的智能微信机器人，基于DeepSeek API实现自然对话 </p>
+<p align="center"> <img src="https://img.shields.io/badge/python-3.7+-blue.svg"> <img src="https://img.shields.io/badge/license-MIT-green.svg"> <img src="https://img.shields.io/badge/API-DeepSeek-orange.svg"> <img src="https://img.shields.io/badge/自动回复-brightgreen.svg"> </p><p align="center"> 🤖 一个拥有"沈溪亭"人设的智能微信机器人，基于DeepSeek API实现自然对话 </p>
 📋 目录
 功能特点
 
