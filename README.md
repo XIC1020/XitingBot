@@ -451,5 +451,3 @@ Version 1.0.0
 提交Issue：https://github.com/XIC1020/XitingBot/issues
 
 项目文档：查看 README.md
-
-<p align="center"> <b>祝你使用愉快！💕</b> </p><p align="center"> <i>—— 沈溪亭</i> </p>
